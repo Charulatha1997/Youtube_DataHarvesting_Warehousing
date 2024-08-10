@@ -55,15 +55,19 @@ Replace "Enter your API key" in the main() function with your actual Google API 
 * Migrate the retrieved data to your MySQL database.
 * Execute predefined SQL queries to analyze the migrated data.
 
-The project requires Python 3.7+ and the following libraries:
+## Dependencies
 
+The `requirements.txt` file contains the following dependencies:
 google-api-python-client==2.86.0
 pandas==1.5.3
 SQLAlchemy==2.0.15
 mysql-connector-python==8.0.33
 streamlit==1.22.0
 python-dotenv==1.0.0
-These dependencies are listed in the requirements.txt file.
+
+To install these dependencies, run:
+pip install -r requirements.txt
+
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.

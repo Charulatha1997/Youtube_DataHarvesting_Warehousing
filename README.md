@@ -58,12 +58,12 @@ Replace "Enter your API key" in the main() function with your actual Google API 
 ## Dependencies
 
 The `requirements.txt` file contains the following dependencies:
-google-api-python-client==2.86.0
-pandas==1.5.3
-SQLAlchemy==2.0.15
-mysql-connector-python==8.0.33
-streamlit==1.22.0
-python-dotenv==1.0.0
+- google-api-python-client==2.86.0
+- pandas==1.5.3
+- SQLAlchemy==2.0.15
+- mysql-connector-python==8.0.33
+- streamlit==1.22.0
+- python-dotenv==1.0.0
 
 To install these dependencies, run:
 pip install -r requirements.txt

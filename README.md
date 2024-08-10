@@ -55,7 +55,6 @@ Replace "Enter your API key" in the main() function with your actual Google API 
 * Migrate the retrieved data to your MySQL database.
 * Execute predefined SQL queries to analyze the migrated data.
 
-# Requirements
 The project requires Python 3.7+ and the following libraries:
 
 google-api-python-client==2.86.0
